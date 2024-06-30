@@ -4,7 +4,7 @@
 
 <h1>color dynamic range test</h1>
 <p>
-  Helps you see if the setting of <span class="blue">Color Dynamic Range</span> (aka
+  Helps see if the setting of <span class="blue">Color Dynamic Range</span> (aka
   Output Dynamic Range, HDMI Dynamic Range) is mismatched between your GPU and monitor.
 </p>
 
