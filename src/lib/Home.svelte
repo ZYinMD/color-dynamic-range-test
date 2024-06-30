@@ -4,8 +4,8 @@
 
 <h1>color dynamic range test</h1>
 <p>
-  Test if the color dynamic range setting is mismatched between your GPU and
-  monitor.
+  Helps you see if the setting of <span class="blue">Color Dynamic Range</span> (aka
+  Output Dynamic Range, HDMI Dynamic Range) is mismatched between your GPU and monitor.
 </p>
 
 <div class="colors-blocks">
@@ -84,5 +84,8 @@
   li {
     line-height: 1.4;
     margin: 4px 0;
+  }
+  span.blue {
+    color: rgb(70, 125, 160);
   }
 </style>
