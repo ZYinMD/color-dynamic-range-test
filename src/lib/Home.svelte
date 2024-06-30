@@ -42,11 +42,11 @@
 <ul>
   <li>Set your GPU to <strong>full</strong>, then look at this page.</li>
   <li>
-    If you see 4 different colors, 2 whites and 2 blacks, then your monitor is
-    also <strong>full</strong>.
+    If you see 2 shades of whites and 2 shades of blacks, then your monitor is
+    also <strong>full</strong>, you should leave it that way.
   </li>
   <li>
-    If you see only 1 type of white and 1 type of black, then your monitor is
+    If you see only 1 shade of white and 1 shade of black, then your monitor is
     <strong>limited</strong>. You should set your GPU to
     <strong>limited</strong> too.
   </li>
@@ -57,13 +57,13 @@
 <ul>
   <li>Set to <strong>limited</strong> on monitor, then look at this page.</li>
   <li>
-    If you see 4 different colors, 2 whites and 2 blacks, then your GPU is also <strong
+    If you see 2 shades of whites and 2 shades of blacks, then your GPU is also <strong
       >limited</strong
     >. You should continue to set monitor to
     <strong>limited</strong>.
   </li>
   <li>
-    If you see only 1 type of white and 1 type of black, then your GPU is
+    If you see only 1 shade of white and 1 shade of black, then your GPU is
     <strong>full</strong>. You should set your monitor to
     <strong>full</strong> too.
   </li>
