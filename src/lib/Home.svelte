@@ -18,8 +18,8 @@
 <p>For best result, you should</p>
 <ul>
   <li>
-    Turn off "light shift" or "night light" on your system, which reduces blue
-    color at night.
+    Turn off "Night Light" or "Night Shift" on your system, which reduces blue
+    light at night.
   </li>
   <li>
     In graphics settings, if you can choose between RGB and YCBCR_42X, choose
@@ -28,8 +28,7 @@
 </ul>
 <p>
   Color dynamic range can be set to either <strong>"limited"</strong> or
-  <strong>"full"</strong>. Both your GPU and your monitor <em>may</em> have this
-  setting.
+  <strong>"full"</strong>. Both your GPU and monitor could have this setting.
 </p>
 <p>
   <strong>Scenario 1: </strong> if your GPU and monitor both have this setting:
