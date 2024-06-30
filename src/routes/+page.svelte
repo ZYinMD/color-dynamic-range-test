@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+  import Home from "$lib/home.svelte";
+</script>
+
+<Home />
+
+<style>
+  :global(body) {
+    font-family: sans-serif;
+  }
+  :global(*) {
+    box-sizing: border-box;
+  }
+</style>
